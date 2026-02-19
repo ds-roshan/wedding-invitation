@@ -1,7 +1,7 @@
 /**
  * ==========================================
  * WEDDING INVITATION - COMPLETE JAVASCRIPT
- * Roshan & Rabina - 13th Falgun, 2082
+ * Roshan & Rachana - 13th Falgun, 2082
  * ==========================================
  */
 
@@ -616,12 +616,12 @@ console.log(`
 %c
 ╔══════════════════════════════════════════════╗
 ║                                              ║
-║      💐 ROSHAN & RABINA WEDDING 💐          ║
+║      💐 ROSHAN & RACHANA WEDDING 💐           ║
 ║                                              ║
 ║         13th Falgun, 2082                    ║
-║         Tikapur, Kailali                     ║
+║         Syuchatar Kalanki, Kathmandu         ║
 ║                                              ║
-║         #RoshanWedsRabina                    ║
+║         #RoshanWedsRachana                   ║
 ║                                              ║
 ╚══════════════════════════════════════════════╝
 `, 'color: #FFD700; font-size: 12px; font-weight: bold;');
