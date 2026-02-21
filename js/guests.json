@@ -217,7 +217,7 @@
       "janti": false
     },
     "prithivi-oli": {
-      "name": "Prithivi Oli",
+      "name": "Prithivi Praggya Oli",
       "title": "Ms.",
       "relationship": "guest",
       "relationship_nepali": "हाम्रो आदरणीय अतिथि",
@@ -230,7 +230,7 @@
       "relationship": "guest",
       "relationship_nepali": "हाम्रो आदरणीय अतिथि",
       "message": "We are delighted to invite you to our wedding celebration. Your presence will make our day even more special. We look forward to celebrating this joyous occasion with you.",
-      "janti": false
+      "janti": true
     },
     "sagar-lamichhane": {
       "name": "Sagar Lamichhane",
@@ -333,6 +333,62 @@
     "aasma-sharma": {
       "name": "Aasma Sharma",
       "title": "Ms.",
+      "relationship": "guest",
+      "relationship_nepali": "हाम्रो आदरणीय अतिथि",
+      "message": "We are delighted to invite you to our wedding celebration. Your presence will make our day even more special. We look forward to celebrating this joyous occasion with you.",
+      "janti": false
+    },
+    "subheksha-pathak": {
+      "name": "Subheksha Pathak",
+      "title": "Ms.",
+      "relationship": "guest",
+      "relationship_nepali": "हाम्रो आदरणीय अतिथि",
+      "message": "We are delighted to invite you to our wedding celebration. Your presence will make our day even more special. We look forward to celebrating this joyous occasion with you.",
+      "janti": false
+    },
+    "suvash-kharel": {
+      "name": "Suvash Kharel",
+      "title": "Mr.",
+      "relationship": "guest",
+      "relationship_nepali": "हाम्रो आदरणीय अतिथि",
+      "message": "We are delighted to invite you to our wedding celebration. Your presence will make our day even more special. We look forward to celebrating this joyous occasion with you.",
+      "janti": false
+    },
+    "pramod-khadka": {
+      "name": "Pramod Khadka",
+      "title": "Mr.",
+      "relationship": "guest",
+      "relationship_nepali": "हाम्रो आदरणीय अतिथि",
+      "message": "We are delighted to invite you to our wedding celebration. Your presence will make our day even more special. We look forward to celebrating this joyous occasion with you.",
+      "janti": false
+    },
+    "samir-duwadi": {
+      "name": "Samir Duwadi",
+      "title": "Mr.",
+      "relationship": "guest",
+      "relationship_nepali": "हाम्रो आदरणीय अतिथि",
+      "message": "We are delighted to invite you to our wedding celebration. Your presence will make our day even more special. We look forward to celebrating this joyous occasion with you.",
+      "janti": false
+    },
+    "nabin-shrestha": {
+      "name": "Nabin Shrestha",
+      "title": "Mr.",
+      "relationship": "guest",
+      "relationship_nepali": "हाम्रो आदरणीय अतिथि",
+      "message": "We are delighted to invite you to our wedding celebration. Your presence will make our day even more special. We look forward to celebrating this joyous occasion with you.",
+      "janti": false
+    },
+    "ankit-dhakal": {
+      "name": "Ankit Dhakal",
+      "title": "Mr.",
+      "relationship": "guest",
+      "relationship_nepali": "हाम्रो आदरणीय अतिथि",
+      "message": "We are delighted to invite you to our wedding celebration. Your presence will make our day even more special. We look forward to celebrating this joyous occasion with you.",
+      "janti": false
+    },
+    "kiran-dhakal": {
+      "name": "Kiran Dhakal",
+      "title": "Mr.",
       "relationship": "guest",
       "relationship_nepali": "हाम्रो आदरणीय अतिथि",
       "message": "We are delighted to invite you to our wedding celebration. Your presence will make our day even more special. We look forward to celebrating this joyous occasion with you.",
