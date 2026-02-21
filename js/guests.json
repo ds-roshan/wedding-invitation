@@ -104,8 +104,8 @@
       "message": "We are delighted to invite you to our wedding celebration. Your presence will make our day even more special. We look forward to celebrating this joyous occasion with you.",
       "janti": false
     },
-    "susan-dristi": {
-      "name": "Susan Dristi",
+    "sushan-dristi": {
+      "name": "Sushan Dristi",
       "title": "Mr.",
       "relationship": "guest",
       "relationship_nepali": "हाम्रो आदरणीय अतिथि",
@@ -316,6 +316,22 @@
     },
     "rabina-tiwari": {
       "name": "Rabina Tiwari",
+      "title": "Ms.",
+      "relationship": "guest",
+      "relationship_nepali": "हाम्रो आदरणीय अतिथि",
+      "message": "We are delighted to invite you to our wedding celebration. Your presence will make our day even more special. We look forward to celebrating this joyous occasion with you.",
+      "janti": false
+    },
+    "pratiz-adhikari": {
+      "name": "Pratiz Adhikari",
+      "title": "Mr.",
+      "relationship": "guest",
+      "relationship_nepali": "हाम्रो आदरणीय अतिथि",
+      "message": "We are delighted to invite you to our wedding celebration. Your presence will make our day even more special. We look forward to celebrating this joyous occasion with you.",
+      "janti": false
+    },
+    "aasma-sharma": {
+      "name": "Aasma Sharma",
       "title": "Ms.",
       "relationship": "guest",
       "relationship_nepali": "हाम्रो आदरणीय अतिथि",
