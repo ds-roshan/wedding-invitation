@@ -984,7 +984,7 @@
       "relationship": "guest",
       "relationship_nepali": "हाम्रो आदरणीय अतिथि",
       "message": "We are delighted to invite you to our wedding celebration. Your presence will make our day even more special. We look forward to celebrating this joyous occasion with you.",
-      "janti": true
+      "janti": false
     },
     "tara-prasad-lamichhane": {
       "name": "Tara Prasad Lamichhane",
@@ -992,7 +992,7 @@
       "relationship": "guest",
       "relationship_nepali": "हाम्रो आदरणीय अतिथि",
       "message": "We are delighted to invite you to our wedding celebration. Your presence will make our day even more special. We look forward to celebrating this joyous occasion with you.",
-      "janti": true
+      "janti": false
     },
     "sita-lamichhane": {
       "name": "Sita Lamichhane",
@@ -1000,7 +1000,7 @@
       "relationship": "guest",
       "relationship_nepali": "हाम्रो आदरणीय अतिथि",
       "message": "We are delighted to invite you to our wedding celebration. Your presence will make our day even more special. We look forward to celebrating this joyous occasion with you.",
-      "janti": true
+      "janti": false
     },
     "narayan-lamichhane": {
       "name": "Narayan Lamichhane",
